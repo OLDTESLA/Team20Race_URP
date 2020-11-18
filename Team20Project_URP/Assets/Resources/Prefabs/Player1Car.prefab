@@ -364,8 +364,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 709db0a50b3d8334e8e8ce3d44dd5da9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotationSpeed: 200
-  throttlePower: 20
+  rotationSpeed: 150
+  throttlePower: 17
 --- !u!1 &6980756106355836937
 GameObject:
   m_ObjectHideFlags: 0
